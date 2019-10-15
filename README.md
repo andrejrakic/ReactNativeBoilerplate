@@ -1,7 +1,5 @@
 # How to setup your React Native app
 
----
-
 Hi, I'm Andrej and I will show how to setup your own React Native mobile app. The power of React Native is that you can built both iOS and Android apps using one single code base.
 
 So, let's begin.
